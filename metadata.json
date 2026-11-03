@@ -1,0 +1,6 @@
+{
+  "name": "PC Health Doctor - ระบบตรวจสุขภาพคอมพิวเตอร์อัจฉริยะ",
+  "description": "ตรวจสอบสุขภาพคอมพิวเตอร์ Windows ทุกชิ้นส่วน วิเคราะห์สาเหตุอาการผิดปกติ ประเมินสถานะอะไหล่ และรับคำแนะนำซ่อมบำรุงด้วย AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
